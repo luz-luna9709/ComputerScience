@@ -1,0 +1,57 @@
+----Pseudocodigo
+Inicio
+
+Escribir "Elige una figura para obtener el area,Elige una opcion:1,2 o 3"
+
+1= Rectangulo
+2= cuadrado
+3=triangulo
+
+leer opcion
+
+si opcion==1 Entonces
+
+Escribir " Ingresa la base  del Rectangulo:" 
+leer b
+Escribir " Ingresa la altura  del Rectangulo:"
+
+leer a
+
+area = (base * altura)
+
+Escribir "el area del Rectangulo es:",area
+
+finSi
+
+si opcion ==2 Entonces
+
+Escribir "Ingresa uno delos lados del cuadrado"
+
+leer L
+
+
+
+Escribir "el area del cuadrado es:",area
+
+ finSi
+ 
+ si opcion==3 Entonces
+
+Escribir " Ingresa la base  del triangulo:" 
+leer b
+Escribir " Ingresa la altura  del triangulo:"
+
+leer a
+
+area = base * altura/2
+
+Escribir "El area del triangulo es:",area
+
+fin
+ 
+ 
+ 
+"El área del cuadrado es:",área
+
+
+
